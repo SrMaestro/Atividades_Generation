@@ -48,8 +48,6 @@ Atividades_Generation/
 │   └── 04.js
 ├── Atividade02/              # Segunda atividade
 │   └── (arquivos...)
-├── Projetos/                 # Projetos desenvolvidos
-│   └── (projetos...)
 ├── .gitignore               # Arquivos ignorados pelo Git
 ├── package.json             # Dependências do projeto
 ├── package-lock.json        # Versões exatas das dependências
