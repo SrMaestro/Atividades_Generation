@@ -40,9 +40,14 @@ Este repositório contém as atividades desenvolvidas durante o curso Generation
 ## 🚀 Como Clonar e Executar o Repositório
 ```
 Atividades_Generation/
-├── Atividade01/          # Primeira atividade
+├── Atividade01/          # Atividades
+      ├── o1.js
+      ├── 02.js
+      ├── 03.js
+      ├── 04.js
 ├── .gitignore           # Arquivos ignorados pelo Git
 ├── package.json         # Dependências do projeto
 ├── package-lock.json    # Versões exatas das dependências
-└── README.md           # Este arquivo
+└── README.md            # Arquivo readme.md
+ 
 ```   
