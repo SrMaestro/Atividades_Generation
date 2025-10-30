@@ -4,7 +4,7 @@ Repositório dedicado às atividades do curso Generation Brasil.
 
 ## 📋 Sobre o Projeto
 
-Este repositório contém as atividades desenvolvidas durante o curso Generation, incluindo exercícios, projetos e desafios práticos.
+Este repositório contém as atividades desenvolvidas durante o curso Generation.
 
 ## 🚀 Como Clonar e Executar o Repositório
 
