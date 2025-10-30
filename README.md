@@ -37,7 +37,7 @@ Este repositório contém as atividades desenvolvidas durante o curso Generation
    npm install
    ```   
 
-## 🚀 Como Clonar e Executar o Repositório
+## 🚀 Estrutura do Projeto
 ```
 Atividades_Generation/
 Atividades_Generation/
