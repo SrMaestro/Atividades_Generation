@@ -7,4 +7,4 @@ let desconto = readline.questionFloat("Digite o desconto: ");
 
 let salarioLiquido = salarioBruto + adicionalNoturno + (horasExtra * 5) - desconto
 
-console.log(`Seu salario bruto e igual a ${salarioBruto}`)
+console.log(`Seu salario bruto e igual a ${salarioLiquido}`)
