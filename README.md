@@ -52,5 +52,4 @@ Atividades_Generation/
 ├── package.json             # Dependências do projeto
 ├── package-lock.json        # Versões exatas das dependências
 └── README.md                # Documentação do projeto
- 
 ```   
