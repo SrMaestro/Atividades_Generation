@@ -1,0 +1,35 @@
+import readline from 'readline-sync';
+
+
+let listaDeIdades = []
+
+let continuar = true;
+let i = 0;
+let pessoasMenoresQue21 = 0;
+let pessoasMenoresQue50 = 0;
+
+
+while (continuar) {
+    let idade = readline.questionInt("Digite sua idade : ");
+    if (idade < 21 && idade > 0) {
+        pessoasMenoresQue21++
+    }
+
+    if (idade > 50) {
+        pessoasMenoresQue50++
+    }
+
+
+    listaDeIdades[i++] = idade;
+
+
+    if (idade === -1) {
+        continuar = false
+    }
+}
+
+
+console.log(`\nTotal de pessoas menores de 21 anos: ${pessoasMenoresQue21}
+
+Total de pessoas maiores de 50 anos: ${pessoasMenoresQue50}
+`);
