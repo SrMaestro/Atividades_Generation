@@ -1,6 +1,9 @@
 {
-  "type": "module",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "@types/node": "^24.10.0",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2"
   }
+  
+  
 }
